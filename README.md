@@ -1,6 +1,6 @@
 # Sveltekit-Lucia
 
-##Dependencies:
+## Dependencies:
 
 - prisma
 - lucia-auth, @lucia-auth/sveltekit, @lucia-auth/adapter-prisma
