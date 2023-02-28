@@ -4,7 +4,7 @@
 
 - prisma
 - lucia-auth, @lucia-auth/sveltekit, @lucia-auth/adapter-prisma
-- sheetjs, @types/sheetjs
+- sheetjs, @types/xlxs
 - @picocss/pico
 - file-saver, @types/file-saver
 
